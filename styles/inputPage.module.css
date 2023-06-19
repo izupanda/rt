@@ -1,0 +1,27 @@
+/* styles/inputPage.module.css */
+.container {
+  padding: 2rem;
+  background-color: #f0f0f0;
+}
+
+.titleInput {
+  display: block;
+  width: 480px;
+  margin-bottom: 1rem;
+}
+
+.descriptionInput {
+  display: block;
+  width: 480px;
+  height: 680px;
+  margin-bottom: 1rem;
+}
+
+.submitButton {
+  padding: 1rem;
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
